@@ -42,11 +42,11 @@ Your RealSense camera package typically includes:
 
 ### Windows Installation
 
-#### Method 1: Intel RealSense SDK Installer (Recommended)
+#### Method 1: RealSenseSDK Installer (Recommended)
 
 1. **Download the SDK**:
-   - Visit [Intel RealSense SDK Downloads](https://www.intelrealsense.com/sdk-2/)
-   - Download "Intel RealSense SDK 2.0" for Windows
+   - Visit [ RealSense SDK Downloads](https://www.intelrealsense.com/sdk-2/)
+   - Download " RealSense SDK 2.0" for Windows
 
 2. **Run the Installer**:
    ```bash

@@ -2,7 +2,7 @@
 
 ## 🎓 RealSense University Certification
 
-Earn industry-recognized certifications that validate your expertise in Intel RealSense technology. Our certification program provides structured learning paths and assessments to help you advance your career in robotics, computer vision, and AI.
+Earn industry-recognized certifications that validate your expertise in RealSensetechnology. Our certification program provides structured learning paths and assessments to help you advance your career in robotics, computer vision, and AI.
 
 ## 🎯 Certification Levels
 

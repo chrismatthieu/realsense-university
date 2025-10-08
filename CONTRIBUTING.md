@@ -163,4 +163,4 @@ By contributing to RealSense University, you agree that your contributions will 
 
 ---
 
-**Ready to contribute?** Start by joining our [Discord community](https://discord.gg/realsense-university) or [GitHub discussions](https://github.com/your-org/realsense-university/discussions)!
+**Ready to contribute?** Start by joining our [Discord community](https://discord.gg/SQdtSH4J) or [GitHub discussions](https://github.com/chrismatthieu/realsense-university/discussions)!

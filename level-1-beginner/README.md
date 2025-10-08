@@ -5,7 +5,7 @@ Welcome to Level 1 of RealSense University! This level is designed for complete 
 ## 🎯 Learning Objectives
 
 By the end of Level 1, you will be able to:
-- Understand what Intel RealSense cameras are and how they work
+- Understand what RealSensecameras are and how they work
 - Install and configure the RealSense SDK
 - Capture and visualize depth and color data
 - Write basic Python scripts to interact with RealSense cameras
@@ -15,7 +15,7 @@ By the end of Level 1, you will be able to:
 
 - Basic programming knowledge (Python recommended)
 - Computer with USB 3.0 port
-- Intel RealSense camera (D415, D435, D455, D457, or L515)
+- RealSensecamera (D415, D435, D455, D457, or L515)
 - 8GB RAM minimum (16GB recommended)
 - Windows 10/11, Ubuntu 18.04+, or macOS 10.14+
 
@@ -32,7 +32,7 @@ By the end of Level 1, you will be able to:
 ## 🛠️ Required Hardware & Software
 
 ### Hardware
-- **Intel RealSense Camera** (choose one):
+- ** RealSense Camera** (choose one):
   - D415: Best for indoor use, good depth range
   - D435: Most popular, balanced performance
   - D455: Long-range depth, outdoor capable

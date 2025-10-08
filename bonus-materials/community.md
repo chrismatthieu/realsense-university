@@ -2,13 +2,13 @@
 
 ## 🌟 Welcome to the RealSense University Community!
 
-Join thousands of developers, researchers, and enthusiasts who are building the future with Intel RealSense technology. Our community is here to help you learn, grow, and succeed with RealSense cameras.
+Join thousands of developers, researchers, and enthusiasts who are building the future with RealSensetechnology. Our community is here to help you learn, grow, and succeed with RealSense cameras.
 
 ## 🚀 Community Platforms
 
 ### 💬 Discord Server
 **Primary Community Hub**
-- **Join**: [discord.gg/realsense-university](https://discord.gg/realsense-university)
+- **Join**: [discord.gg/realsense-university](https://discord.gg/SQdtSH4J)
 - **Features**: Real-time chat, voice channels, screen sharing
 - **Channels**: 
   - #general - General discussions
@@ -25,7 +25,7 @@ Join thousands of developers, researchers, and enthusiasts who are building the 
 
 ### 📚 GitHub Discussions
 **Technical Discussions and Q&A**
-- **Repository**: [github.com/your-org/realsense-university](https://github.com/your-org/realsense-university)
+- **Repository**: [github.com/your-org/realsense-university](https://github.com/chrismatthieu/realsense-university)
 - **Features**: Issue tracking, code sharing, project collaboration
 - **Categories**:
   - Q&A - Ask questions and get answers
@@ -51,9 +51,9 @@ Join thousands of developers, researchers, and enthusiasts who are building the 
 
 ### 📱 Social Media
 **Stay Connected and Updated**
-- **Twitter**: [@RealSenseUni](https://twitter.com/RealSenseUni) - News and updates
+- **Twitter**: [@RealSenseAI](https://x.com/RealSenseAI) - News and updates
 - **LinkedIn**: [RealSense University](https://linkedin.com/company/realsense-university) - Professional network
-- **YouTube**: [RealSense University](https://youtube.com/@realsense-university) - Video content
+- **YouTube**: [RealSense University](https://youtube.com/@realsense) - Video content
 - **Reddit**: [r/RealSenseUniversity](https://reddit.com/r/RealSenseUniversity) - Community discussions
 
 ## 🎯 Community Guidelines
@@ -218,9 +218,9 @@ Thanks,
 
 ### 🏢 Organization
 - **RealSense University**: [website](https://realsense-university.com)
-- **Intel RealSense**: [official website](https://www.intelrealsense.com/)
+- ** RealSense**: [official website](https://www.intelrealsense.com/)
 - **GitHub Organization**: [github.com/your-org](https://github.com/your-org)
 
 ---
 
-**Ready to join our community?** Start by joining our [Discord server](https://discord.gg/realsense-university) or [GitHub discussions](https://github.com/your-org/realsense-university/discussions)!
+**Ready to join our community?** Start by joining our [Discord server](https://discord.gg/SQdtSH4J) or [GitHub discussions](https://github.com/chrismatthieu/realsense-university/discussions)!

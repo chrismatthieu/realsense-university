@@ -496,7 +496,7 @@ Create `README.md`:
 ```markdown
 # RealSense Distance Measurement Tool
 
-A Python application for real-time distance measurement using Intel RealSense cameras.
+A Python application for real-time distance measurement using RealSensecameras.
 
 ## Features
 
@@ -508,7 +508,7 @@ A Python application for real-time distance measurement using Intel RealSense ca
 
 ## Requirements
 
-- Intel RealSense camera (D415, D435, D455, D457, or L515)
+- RealSensecamera (D415, D435, D455, D457, or L515)
 - Python 3.7+
 - Required packages: pyrealsense2, opencv-python, numpy
 

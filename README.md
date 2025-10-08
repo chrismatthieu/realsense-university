@@ -1,10 +1,10 @@
 # 🎓 RealSense University
 
-Welcome to **RealSense University** - your comprehensive online curriculum for mastering Intel RealSense 3D stereo cameras from beginner to expert level.
+Welcome to **RealSense University** - your comprehensive online curriculum for mastering RealSense 3D stereo cameras from beginner to expert level.
 
 ## 🎯 About This Program
 
-RealSense University is designed to take you from complete beginner to expert developer in working with Intel RealSense cameras. Whether you're building robotics applications, computer vision systems, or AI-powered solutions, this curriculum provides structured learning with hands-on projects.
+RealSense University is designed to take you from complete beginner to expert developer in working with RealSensecameras. Whether you're building robotics applications, computer vision systems, or AI-powered solutions, this curriculum provides structured learning with hands-on projects.
 
 ## 📚 Curriculum Overview
 
@@ -63,7 +63,7 @@ RealSense University is designed to take you from complete beginner to expert de
 ### For Level 1 (Beginner):
 - Basic programming knowledge (Python recommended)
 - Computer with USB 3.0 port
-- Intel RealSense camera (D415, D435, D455, D457, or L515)
+- RealSensecamera (D415, D435, D455, D457, or L515)
 
 ### For Level 2 (Intermediate):
 - Completion of Level 1 or equivalent experience
@@ -111,13 +111,13 @@ This curriculum is licensed under the [MIT License](./LICENSE).
 ## 🆘 Support
 
 - 📧 Email: support@realsense-university.com
-- 💬 Discord: [Join our community](https://discord.gg/realsense-university)
-- 📚 Documentation: [Official Intel RealSense Docs](https://dev.intelrealsense.com/)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-org/realsense-university/issues)
+- 💬 Discord: [Join our community](https://discord.gg/SQdtSH4J)
+- 📚 Documentation: [Official RealSenseDocs](https://dev.realsenseai.com/)
+- 🐛 Issues: [GitHub Issues](https://github.com/chrismatthieu/realsense-university/issues)
 
 ## 🌟 Acknowledgments
 
-- Intel RealSense team for the amazing hardware and SDK
+- RealSense team for the amazing hardware and SDK
 - ROS2 community for robotics framework
 - OpenCV and Open3D communities for computer vision tools
 - All contributors and students of RealSense University

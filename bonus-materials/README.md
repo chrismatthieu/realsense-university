@@ -39,9 +39,9 @@ Learn about our certification program and how to earn your credentials.
 ## 📞 Support
 
 - 📧 **Email**: support@realsense-university.com
-- 💬 **Discord**: [Join our community](https://discord.gg/realsense-university)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-org/realsense-university/issues)
-- 📚 **Documentation**: [Official Intel RealSense Docs](https://dev.intelrealsense.com/)
+- 💬 **Discord**: [Join our community](https://discord.gg/SQdtSH4J)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/chrismatthieu/realsense-university/issues)
+- 📚 **Documentation**: [Official RealSenseDocs](https://dev.realsenseai.com/)
 
 ---
 

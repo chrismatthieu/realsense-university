@@ -185,7 +185,7 @@ Upon completing Level 4, you will:
 
 - [RealSense SDK Source Code](https://github.com/IntelRealSense/librealsense)
 - [OpenVINO Documentation](https://docs.openvino.ai/)
-- [Intel RealSense Research Papers](https://www.intelrealsense.com/research/)
+- [ RealSense Research Papers](https://www.intelrealsense.com/research/)
 - [Expert Community Forum](https://github.com/your-org/realsense-university/discussions)
 
 ---

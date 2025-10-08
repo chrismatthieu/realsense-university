@@ -32,7 +32,7 @@ By the end of Level 2, you will be able to:
 ## 🛠️ Required Hardware & Software
 
 ### Hardware
-- **Intel RealSense Camera**: D435, D455, or D457 recommended
+- ** RealSense Camera**: D435, D455, or D457 recommended
 - **Development Computer**: Linux (Ubuntu 20.04+), Windows 10+, or macOS
 - **Additional Sensors**: IMU-enabled camera for advanced features
 - **Robotics Platform**: Optional for ROS2 integration

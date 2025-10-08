@@ -8,9 +8,9 @@ By the end of this module, you will be able to:
 - Identify the right RealSense camera for your application
 - Recognize common use cases and applications
 
-## 📖 What is Intel RealSense?
+## 📖 What is  RealSense?
 
-Intel RealSense is a family of 3D depth cameras that use **stereo vision** to perceive the world in three dimensions. Unlike traditional 2D cameras that only capture color information, RealSense cameras provide both color (RGB) and depth (D) data, creating what's called **RGB-D** imaging.
+ RealSense is a family of 3D depth cameras that use **stereo vision** to perceive the world in three dimensions. Unlike traditional 2D cameras that only capture color information, RealSense cameras provide both color (RGB) and depth (D) data, creating what's called **RGB-D** imaging.
 
 ### 🔍 How Stereo Depth Sensing Works
 
@@ -181,7 +181,7 @@ Congratulations! You now understand the fundamentals of RealSense cameras. In th
 
 ## 📚 Additional Resources
 
-- [Intel RealSense Official Website](https://www.intelrealsense.com/)
+- [ RealSense Official Website](https://www.intelrealsense.com/)
 - [RealSense Product Comparison](https://www.intelrealsense.com/depth-camera-comparison/)
 - [RealSense Use Cases](https://www.intelrealsense.com/use-cases/)
 - [Depth Sensing Technologies Explained](https://www.intelrealsense.com/depth-sensing-technologies/)

@@ -144,7 +144,7 @@ Our comprehensive video series provides step-by-step visual guidance for all lev
 - **AR/VR Development** (10 min)
 
 ### 🎓 Expert Interviews
-- **Intel RealSense Team** (20 min)
+- ** RealSense Team** (20 min)
 - **Industry Leaders** (25 min)
 - **Research Scientists** (18 min)
 - **Open Source Contributors** (15 min)
