@@ -1,0 +1,52 @@
+# RealSense University Requirements
+# ================================
+
+# Core RealSense dependencies
+pyrealsense2>=2.54.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+
+# Computer vision and 3D processing
+open3d>=0.15.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+
+# ROS2 dependencies (for intermediate and advanced levels)
+rclpy>=3.3.0
+sensor-msgs>=4.2.0
+geometry-msgs>=4.2.0
+std-msgs>=4.2.0
+visualization-msgs>=4.2.0
+tf2-ros>=0.25.0
+cv-bridge>=3.2.0
+
+# AI and machine learning (for advanced levels)
+torch>=1.12.0
+torchvision>=0.13.0
+tensorflow>=2.10.0
+onnx>=1.12.0
+onnxruntime>=1.12.0
+openvino>=2022.1.0
+
+# MediaPipe for gesture recognition
+mediapipe>=0.8.0
+
+# YOLO for object detection
+ultralytics>=8.0.0
+
+# Additional utilities
+pyyaml>=6.0
+psutil>=5.8.0
+GPUtil>=1.4.0
+scikit-learn>=1.1.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.950
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
