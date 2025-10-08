@@ -40,43 +40,32 @@ python level-1-beginner/basic_camera_test.py
 
 | Example | Description | Difficulty |
 |---------|-------------|------------|
-| [basic_camera_test.py](./level-1-beginner/basic_camera_test.py) | Test camera connection | ⭐ |
-| [depth_visualization.py](./level-1-beginner/depth_visualization.py) | Display depth maps | ⭐ |
-| [point_cloud_generator.py](./level-1-beginner/point_cloud_generator.py) | Generate point clouds | ⭐⭐ |
-| [distance_measurement.py](./level-1-beginner/distance_measurement.py) | Measure distances | ⭐⭐ |
-| [mini_project_template.py](./level-1-beginner/mini_project_template.py) | Project template | ⭐⭐⭐ |
+| [basic_camera_test.py](./level-1-beginner/basic_camera_test.py) | Test camera connection and basic functionality | ⭐ |
+| [depth_visualization.py](./level-1-beginner/depth_visualization.py) | Advanced depth visualization with multiple colormaps | ⭐ |
+| [point_cloud_generator.py](./level-1-beginner/point_cloud_generator.py) | Generate and visualize 3D point clouds | ⭐⭐ |
+| [distance_measurement.py](./level-1-beginner/distance_measurement.py) | Interactive distance measurement tool | ⭐⭐ |
 
 ### ⚙️ Level 2: Intermediate Examples
 **ROS2 integration and advanced applications**
 
 | Example | Description | Difficulty |
 |---------|-------------|------------|
-| [ros2_basic_node.py](./level-2-intermediate/ros2_basic_node.py) | Basic ROS2 node | ⭐⭐ |
-| [point_cloud_processor.py](./level-2-intermediate/point_cloud_processor.py) | Point cloud processing | ⭐⭐⭐ |
-| [obstacle_detector.py](./level-2-intermediate/obstacle_detector.py) | Obstacle detection | ⭐⭐⭐ |
-| [gesture_recognizer.py](./level-2-intermediate/gesture_recognizer.py) | Gesture recognition | ⭐⭐⭐ |
-| [cross_platform_optimizer.py](./level-2-intermediate/cross_platform_optimizer.py) | Platform optimization | ⭐⭐⭐ |
+| [ros2_basic_node.py](./level-2-intermediate/ros2_basic_node.py) | Complete ROS2 node with topic publishing | ⭐⭐ |
+| [obstacle_detector.py](./level-2-intermediate/obstacle_detector.py) | Real-time obstacle detection and safety zones | ⭐⭐⭐ |
 
 ### 🤖 Level 3: Advanced Examples
 **AI integration and complex robotics applications**
 
 | Example | Description | Difficulty |
 |---------|-------------|------------|
-| [slam_system.py](./level-3-advanced/slam_system.py) | Visual SLAM implementation | ⭐⭐⭐⭐ |
-| [sensor_fusion.py](./level-3-advanced/sensor_fusion.py) | Multi-sensor fusion | ⭐⭐⭐⭐ |
-| [ai_object_detector.py](./level-3-advanced/ai_object_detector.py) | AI object detection | ⭐⭐⭐⭐ |
-| [cloud_robotics_client.py](./level-3-advanced/cloud_robotics_client.py) | Cloud robotics | ⭐⭐⭐⭐ |
-| [autonomous_navigation.py](./level-3-advanced/autonomous_navigation.py) | Autonomous navigation | ⭐⭐⭐⭐⭐ |
+| [slam_system.py](./level-3-advanced/slam_system.py) | Complete Visual SLAM implementation | ⭐⭐⭐⭐ |
 
 ### 🧑‍🏫 Level 4: Expert Examples
 **Advanced research and development projects**
 
 | Example | Description | Difficulty |
 |---------|-------------|------------|
-| [humanoid_perception.py](./level-4-expert/humanoid_perception.py) | Humanoid robot perception | ⭐⭐⭐⭐⭐ |
-| [openvino_optimizer.py](./level-4-expert/openvino_optimizer.py) | OpenVINO optimization | ⭐⭐⭐⭐⭐ |
-| [sdk_extension.py](./level-4-expert/sdk_extension.py) | Custom SDK extension | ⭐⭐⭐⭐⭐ |
-| [capstone_project.py](./level-4-expert/capstone_project.py) | Capstone project template | ⭐⭐⭐⭐⭐ |
+| [humanoid_perception.py](./level-4-expert/humanoid_perception.py) | Advanced humanoid robot perception system | ⭐⭐⭐⭐⭐ |
 
 ## 🛠️ Common Utilities
 
