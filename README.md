@@ -110,7 +110,7 @@ This curriculum is licensed under the [MIT License](./LICENSE).
 
 ## 🆘 Support
 
-- 📧 Email: support@realsense-university.com
+- 📧 Email: university@realsenseai.com
 - 💬 Discord: [Join our community](https://discord.gg/SQdtSH4J)
 - 📚 Documentation: [Official RealSenseDocs](https://dev.realsenseai.com/)
 - 🐛 Issues: [GitHub Issues](https://github.com/chrismatthieu/realsense-university/issues)
