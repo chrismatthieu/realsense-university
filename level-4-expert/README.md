@@ -31,7 +31,7 @@ By the end of Level 4, you will be able to:
 ## 🛠️ Required Hardware & Software
 
 ### Hardware
-- **High-end RealSense Camera**: D457 or L515
+- **High-end RealSense Camera**: D457 or D555
 - **Powerful Development Machine**: GPU with CUDA support
 - **Humanoid Robot Platform**: Optional for Track 1
 - **Edge Computing Device**: NVIDIA Jetson or similar

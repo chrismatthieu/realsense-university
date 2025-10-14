@@ -4,7 +4,7 @@ Welcome to **RealSense University** - your comprehensive online curriculum for m
 
 ## 🎯 About This Program
 
-RealSense University is designed to take you from complete beginner to expert developer in working with RealSensecameras. Whether you're building robotics applications, computer vision systems, or AI-powered solutions, this curriculum provides structured learning with hands-on projects.
+RealSense University is designed to take you from complete beginner to expert developer in working with RealSense cameras. Whether you're building robotics applications, computer vision systems, or AI-powered solutions, this curriculum provides structured learning with hands-on projects.
 
 ## 📚 Curriculum Overview
 
@@ -63,7 +63,7 @@ RealSense University is designed to take you from complete beginner to expert de
 ### For Level 1 (Beginner):
 - Basic programming knowledge (Python recommended)
 - Computer with USB 3.0 port
-- RealSensecamera (D415, D435, D455, D457, or L515)
+- RealSense camera (D405, D415, D435, D455, D457, or D555)
 
 ### For Level 2 (Intermediate):
 - Completion of Level 1 or equivalent experience

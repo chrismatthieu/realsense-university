@@ -5,7 +5,7 @@ Welcome to Level 1 of RealSense University! This level is designed for complete 
 ## 🎯 Learning Objectives
 
 By the end of Level 1, you will be able to:
-- Understand what RealSensecameras are and how they work
+- Understand what RealSense cameras are and how they work
 - Install and configure the RealSense SDK
 - Capture and visualize depth and color data
 - Write basic Python scripts to interact with RealSense cameras
@@ -15,7 +15,7 @@ By the end of Level 1, you will be able to:
 
 - Basic programming knowledge (Python recommended)
 - Computer with USB 3.0 port
-- RealSensecamera (D415, D435, D455, D457, or L515)
+- RealSense camera (D405, D415, D435, D455, D457, or D555)
 - 8GB RAM minimum (16GB recommended)
 - Windows 10/11, Ubuntu 18.04+, or macOS 10.14+
 
@@ -37,7 +37,7 @@ By the end of Level 1, you will be able to:
   - D435: Most popular, balanced performance
   - D455: Long-range depth, outdoor capable
   - D457: AI-optimized, latest generation
-  - L515: LiDAR-based, high accuracy
+  - D555: AI-optimized, high accuracy, Built-in ROS and Holoscan
 
 ### Software
 - **RealSense SDK 2.0**: Latest version from Intel

@@ -40,6 +40,13 @@ Left Camera View    Right Camera View    Depth Map
 
 ### D400 Series (Stereo Depth)
 
+#### D405
+- **Best for**: Indoor applications, close-range precision
+- **Depth range**: 7cm - 50cm
+- **Resolution**: 1280×720 @ 90fps
+- **Key features**: Global shutter, good for moving objects in close range
+- **Use cases**: Robotics, arm/hand positioning, quality inspection
+- 
 #### D415
 - **Best for**: Indoor applications, close-range precision
 - **Depth range**: 0.3m - 10m
@@ -65,17 +72,15 @@ Left Camera View    Right Camera View    Depth Map
 - **Best for**: AI-optimized applications
 - **Depth range**: 0.1m - 10m
 - **Resolution**: 1920×1080 @ 30fps
-- **Key features**: AI acceleration, latest generation
-- **Use cases**: Edge AI, smart cameras, robotics
+- **Key features**: AI acceleration, GMSL
+- **Use cases**: Edge AI, smart cameras, robotics, industrial
 
-### L500 Series (LiDAR)
-
-#### L515
+#### D555
 - **Best for**: High-precision applications
-- **Depth range**: 0.25m - 9m
-- **Resolution**: 1024×768 @ 30fps
-- **Key features**: LiDAR technology, very accurate
-- **Use cases**: 3D scanning, precision measurement
+- **Depth range**: 0.6m - 6m
+- **Resolution**: 1280×800 @ 60fps
+- **Key features**: Power over Ethernet (PoE), ROS2, Holoscan, IP65
+- **Use cases**: 3D scanning, precision measurement, robotics, industrial
 
 ## 🎯 Applications Across Industries
 
@@ -117,7 +122,7 @@ Left Camera View    Right Camera View    Depth Map
 | D435 | 0.1-10m | 1920×1080 | 1280×720 | 87°×58° | No | $179 |
 | D455 | 0.4-20m | 1920×1080 | 1280×720 | 87°×58° | Yes | $199 |
 | D457 | 0.1-10m | 1920×1080 | 1920×1080 | 87°×58° | Yes | $249 |
-| L515 | 0.25-9m | 1920×1080 | 1024×768 | 70°×55° | Yes | $349 |
+| D555 | 0.4-20m | 1920×1080 | 1024×768 | 70°×55° | Yes | $499 |
 
 ## 🎯 Choosing the Right Camera
 
@@ -130,7 +135,7 @@ Left Camera View    Right Camera View    Depth Map
 - **D435**: General-purpose robotics applications
 
 ### For Precision Applications
-- **L515**: Highest accuracy for measurement
+- **D555**: Highest accuracy for measurement
 - **D415**: Good precision with global shutter
 
 ### For AI/Computer Vision
@@ -165,7 +170,7 @@ Left Camera View    Right Camera View    Depth Map
    - A) D415
    - B) D435
    - C) D455
-   - D) L515
+   - D) D555
 
 3. **What does RGB-D stand for?**
    - A) Red-Green-Blue-Depth
